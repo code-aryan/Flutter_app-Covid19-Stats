@@ -1,4 +1,4 @@
-# covid_19_stats
+# COVID-19 Stats
 
 A new Flutter application.
 
